@@ -1,0 +1,35 @@
+.navbar {
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+    padding: 1rem 2rem ;
+    background-color: #002dc1be;
+
+}
+.nav-link{
+
+    color:azure;
+    padding: 3px;
+    border-radius: 1rem;
+  
+}
+.offcanvas-top{
+
+    height: 6rem;
+    background-color: #2d4eba; 
+    padding: 3px;
+    
+}
+.offcanvas-header{
+
+    margin: auto;
+    padding: auto;
+
+
+}
+.btn-outline-light{
+
+    margin-left :2rem;
+    min-width: 150px;
+
+}

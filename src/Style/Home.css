@@ -1,0 +1,44 @@
+
+.home {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("../assets/img/grafico.png");
+    background-size: cover;
+    z-index: -1;
+}
+.body{
+    margin: 0;
+
+}
+.text{
+
+    height: 600px;
+    background-color: rgba(255, 255, 255, 0.44);
+    margin: 100px;
+    border-radius: 30px;
+    text-align: center;
+    box-shadow: 0 0 30px rgba(17, 17, 17, 0.792);
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+
+    
+}
+.home h1 {
+
+    border-bottom: 2px ;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+
+}
+.home p {
+    color: rgb(0, 0, 0);
+    font-family: "Blinker";
+    
+
+}
